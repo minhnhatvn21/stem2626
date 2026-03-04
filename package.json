@@ -1,0 +1,32 @@
+{
+  "name": "stem26-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "firebase": "^10.14.1",
+    "framer-motion": "^11.18.2",
+    "lucide-react": "^0.460.0",
+    "next": "15.0.3",
+    "qrcode.react": "^4.2.0",
+    "react": "19.0.0-rc-02c0e824-20241028",
+    "react-dom": "19.0.0-rc-02c0e824-20241028",
+    "react-hot-toast": "^2.6.0",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^9",
+    "eslint-config-next": "15.0.3",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
